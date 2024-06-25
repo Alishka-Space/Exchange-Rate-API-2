@@ -1,4 +1,4 @@
-# Exchange Rate Converter
+# Exchange Rate 
 
 This web application that allows users to convert an amount in US Dollars (USD) to various currencies, including Euro (EUR), Ukrainian Hryvnia (UAH), Syrian Pound (SYP), Turkish Lira (TRY), Egyptian Pound (EGP), and Saudi Riyal (SAR).
 
