@@ -67,3 +67,8 @@ h1 {
     font-weight: bold;
     color: rgb(50, 49, 36);
 }
+@media (max-width: 768px) {
+    .price-container {
+        width: 80%;
+    }
+}
