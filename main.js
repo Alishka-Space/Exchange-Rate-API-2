@@ -93,8 +93,7 @@ async function getExchangeRates() {
       "https://api.currencyfreaks.com/v2.0/rates/latest?apikey=07d0644151f44a858ed1049983148911"
     );
     const data = await response.json();
-    //try block need to return data
-    //in this case why i dont know data.rates is used
+
     return data.rates;
   } catch (error) {
     console.error("Error fetching exchange rates:", error);
